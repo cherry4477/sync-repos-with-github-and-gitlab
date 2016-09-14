@@ -101,7 +101,7 @@ sync_repo_df datafactory
 #sync_repo_df datafactory-mysql-broker-nodejs
 #sync_repo_df datafactory-openshift-deployment
 sync_repo_df datafactory-rds-broker
-sync_repo_df datafactory-servicebroker-example
+#sync_repo_df datafactory-servicebroker-example
 sync_repo_df datafactory-servicebroker-mysql
 sync_repo_df datafactory-stepbystep
 sync_repo_df datafoundry-gitter
