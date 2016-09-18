@@ -1,0 +1,829 @@
+preparing to sync LDP_DH api-gateway-datahub...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH datahub...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DH/datahub.git
+ * [new tag]         v0.4 -> v0.4
+ * [new tag]         v0.5 -> v0.5
+ * [new tag]         v0.6 -> v0.6
+ * [new tag]         v0.7 -> v0.7
+ * [new tag]         v0.8 -> v0.8
+ * [new tag]         v0.9 -> v0.9
+ * [new tag]         v1.0 -> v1.0
+ * [new tag]         v1.0.1 -> v1.0.1
+ * [new tag]         v1.1 -> v1.1
+ * [new tag]         v1.2 -> v1.2
+ * [new tag]         v1.3 -> v1.3
+ * [new tag]         v1.4 -> v1.4
+ * [new tag]         v1.5 -> v1.5
+ * [new tag]         v1.5.1 -> v1.5.1
+ * [new tag]         v1.6 -> v1.6
+ * [new tag]         v1.8 -> v1.8
+ * [new tag]         v2.0.0 -> v2.0.0
+ * [new tag]         v2.1.0 -> v2.1.0
+preparing to sync LDP_DH datahub-mysql-for-api...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DH/datahub-mysql-for-api.git
+ * [new tag]         0.7 -> 0.7
+ * [new tag]         v0.1 -> v0.1
+ * [new tag]         v0.2 -> v0.2
+ * [new tag]         v0.3 -> v0.3
+ * [new tag]         v0.4 -> v0.4
+ * [new tag]         v0.5 -> v0.5
+ * [new tag]         v0.6 -> v0.6
+ * [new tag]         v0.8 -> v0.8
+ * [new tag]         v0.8.1 -> v0.8.1
+ * [new tag]         v0.8.2 -> v0.8.2
+ * [new tag]         v0.8.3 -> v0.8.3
+ * [new tag]         v0.8.4 -> v0.8.4
+ * [new tag]         v0.8.5 -> v0.8.5
+ * [new tag]         v0.8.5.1 -> v0.8.5.1
+ * [new tag]         v0.8.5.2 -> v0.8.5.2
+ * [new tag]         v0.8.5.3 -> v0.8.5.3
+ * [new tag]         v0.8.5.4 -> v0.8.5.4
+ * [new tag]         v0.8.5.5 -> v0.8.5.5
+ * [new tag]         v0.8.5.6 -> v0.8.5.6
+ * [new tag]         v0.8.5.7 -> v0.8.5.7
+ * [new tag]         v0.8.6 -> v0.8.6
+ * [new tag]         v0.8.6.1 -> v0.8.6.1
+ * [new tag]         v0.8.7 -> v0.8.7
+ * [new tag]         v0.8.7.1 -> v0.8.7.1
+ * [new tag]         v0.8.7.2 -> v0.8.7.2
+preparing to sync LDP_DH datahub-mysqlclinet...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH datahub_alarm...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH datahub_api_gateway...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH datahub_api_server...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH datahub_api_specification...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH datahub_backlog...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH datahub_bill...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DH/datahub_bill.git
+ * [new tag]         0.9 -> 0.9
+ * [new tag]         1.0 -> 1.0
+ * [new tag]         1.1 -> 1.1
+ * [new tag]         1.2 -> 1.2
+ * [new tag]         1.2.1 -> 1.2.1
+ * [new tag]         1.3 -> 1.3
+ * [new tag]         1.3.1 -> 1.3.1
+ * [new tag]         1.4 -> 1.4
+ * [new tag]         1.5 -> 1.5
+ * [new tag]         v0.7 -> v0.7
+ * [new tag]         v0.8 -> v0.8
+ * [new tag]         v2.2 -> v2.2
+preparing to sync LDP_DH datahub_comments...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DH/datahub_comments.git
+ * [new tag]         master_2015-11-23 -> master_2015-11-23
+ * [new tag]         master_2015-11-24-a -> master_2015-11-24-a
+ * [new tag]         master_2015-11-24-b -> master_2015-11-24-b
+ * [new tag]         master_2015-11-30 -> master_2015-11-30
+ * [new tag]         master_2015-12-01 -> master_2015-12-01
+ * [new tag]         master_2015-12-01-b -> master_2015-12-01-b
+ * [new tag]         master_2015-12-03 -> master_2015-12-03
+ * [new tag]         v0.7 -> v0.7
+ * [new tag]         v0.8 -> v0.8
+ * [new tag]         v0.9 -> v0.9
+ * [new tag]         v1.0 -> v1.0
+ * [new tag]         v1.1 -> v1.1
+ * [new tag]         v1.2 -> v1.2
+ * [new tag]         v1.3 -> v1.3
+ * [new tag]         v1.4 -> v1.4
+ * [new tag]         v1.5 -> v1.5
+ * [new tag]         v2.1.3 -> v2.1.3
+ * [new tag]         v2.2 -> v2.2
+preparing to sync LDP_DH datahub_commons...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH datahub_custom...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH datahub_docs...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DH/datahub_docs.git
+ * [new tag]         0.1.0 -> 0.1.0
+ * [new tag]         0.1.1 -> 0.1.1
+ * [new tag]         v0.8 -> v0.8
+ * [new tag]         v0.81 -> v0.81
+ * [new tag]         v0.82 -> v0.82
+ * [new tag]         v0.83 -> v0.83
+ * [new tag]         v0.84 -> v0.84
+ * [new tag]         v0.85 -> v0.85
+ * [new tag]         v0.86 -> v0.86
+preparing to sync LDP_DH datahub_documentation...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH datahub_documents...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH datahub_filebackup...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH datahub_find_similiars...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH datahub_heartbeat...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DH/datahub_heartbeat.git
+ * [new tag]         v0.4 -> v0.4
+ * [new tag]         v0.4.1 -> v0.4.1
+ * [new tag]         v0.4.2 -> v0.4.2
+ * [new tag]         v0.5 -> v0.5
+ * [new tag]         v0.6 -> v0.6
+ * [new tag]         v0.7 -> v0.7
+ * [new tag]         v0.8 -> v0.8
+ * [new tag]         v0.9 -> v0.9
+ * [new tag]         v1.0 -> v1.0
+ * [new tag]         v1.1 -> v1.1
+ * [new tag]         v1.2 -> v1.2
+ * [new tag]         v1.3 -> v1.3
+ * [new tag]         v1.4 -> v1.4
+ * [new tag]         v1.5 -> v1.5
+ * [new tag]         v1.6 -> v1.6
+ * [new tag]         v2.1.0 -> v2.1.0
+preparing to sync LDP_DH datahub_kafka...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DH/datahub_kafka.git
+ * [new tag]         v0.8 -> v0.8
+ * [new tag]         v0.81 -> v0.81
+ * [new tag]         v0.82 -> v0.82
+ * [new tag]         v0.83 -> v0.83
+ * [new tag]         v0.84 -> v0.84
+ * [new tag]         v0.85 -> v0.85
+preparing to sync LDP_DH datahub_messages...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DH/datahub_messages.git
+ * [new tag]         2.2 -> 2.2
+ * [new tag]         2.2.1 -> 2.2.1
+ * [new tag]         master_2015-11-30 -> master_2015-11-30
+ * [new tag]         master_2015-12-04-a -> master_2015-12-04-a
+ * [new tag]         v0.7 -> v0.7
+ * [new tag]         v0.8 -> v0.8
+ * [new tag]         v0.9 -> v0.9
+ * [new tag]         v1.0 -> v1.0
+ * [new tag]         v1.02 -> v1.02
+ * [new tag]         v1.1 -> v1.1
+ * [new tag]         v1.2 -> v1.2
+ * [new tag]         v1.3 -> v1.3
+ * [new tag]         v1.4 -> v1.4
+ * [new tag]         v1.5 -> v1.5
+ * [new tag]         v2.0 -> v2.0
+ * [new tag]         v2.1.3 -> v2.1.3
+ * [new tag]         v2.11 -> v2.11
+preparing to sync LDP_DH datahub_product_yaml...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH datahub_repository...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DH/datahub_repository.git
+ * [new tag]         20141217a -> 20141217a
+ * [new tag]         20151111-a -> 20151111-a
+ * [new tag]         20151111-b -> 20151111-b
+ * [new tag]         20151123 -> 20151123
+ * [new tag]         20151215 -> 20151215
+ * [new tag]         20151217 -> 20151217
+ * [new tag]         20160219 -> 20160219
+ * [new tag]         releasev1.3 -> releasev1.3
+ * [new tag]         v0.4 -> v0.4
+ * [new tag]         v0.4.0 -> v0.4.0
+ * [new tag]         v0.4.0.0 -> v0.4.0.0
+ * [new tag]         v0.4.1 -> v0.4.1
+ * [new tag]         v0.4.2 -> v0.4.2
+ * [new tag]         v0.4.3 -> v0.4.3
+ * [new tag]         v0.4.4 -> v0.4.4
+ * [new tag]         v0.4.5 -> v0.4.5
+ * [new tag]         v0.4test -> v0.4test
+ * [new tag]         v0.4test2 -> v0.4test2
+ * [new tag]         v0.4test3 -> v0.4test3
+ * [new tag]         v0.4test4 -> v0.4test4
+ * [new tag]         v0.4test5 -> v0.4test5
+ * [new tag]         v0.4test6 -> v0.4test6
+ * [new tag]         v0.7 -> v0.7
+ * [new tag]         v0.8 -> v0.8
+ * [new tag]         v0.9 -> v0.9
+ * [new tag]         v1.0 -> v1.0
+ * [new tag]         v1.1 -> v1.1
+ * [new tag]         v1.10 -> v1.10
+ * [new tag]         v1.2 -> v1.2
+ * [new tag]         v1.3 -> v1.3
+ * [new tag]         v1.4 -> v1.4
+ * [new tag]         v1.5 -> v1.5
+ * [new tag]         v1.7 -> v1.7
+ * [new tag]         v1.7.1 -> v1.7.1
+ * [new tag]         v1.8 -> v1.8
+ * [new tag]         v2.0 -> v2.0
+ * [new tag]         v2.1 -> v2.1
+ * [new tag]         v2.1.6 -> v2.1.6
+ * [new tag]         v2.1.7 -> v2.1.7
+ * [new tag]         v2.1.8 -> v2.1.8
+ * [new tag]         v2.1.9 -> v2.1.9
+ * [new tag]         v20141113-b -> v20141113-b
+ * [new tag]         v20151111 -> v20151111
+ * [new tag]         v20151112 -> v20151112
+ * [new tag]         v20151112-a -> v20151112-a
+ * [new tag]         v20151112-b -> v20151112-b
+ * [new tag]         v20151112-c -> v20151112-c
+ * [new tag]         v20151113-a -> v20151113-a
+ * [new tag]         v20151204 -> v20151204
+ * [new tag]         v20151205 -> v20151205
+ * [new tag]         v20151205b -> v20151205b
+ * [new tag]         v20151205r -> v20151205r
+preparing to sync LDP_DH datahub_service_discovery...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DH/datahub_service_discovery.git
+ * [new tag]         release0.8 -> release0.8
+ * [new tag]         release20151116 -> release20151116
+ * [new tag]         v0.81 -> v0.81
+ * [new tag]         v0.9 -> v0.9
+ * [new tag]         v1.0 -> v1.0
+ * [new tag]         v1.1 -> v1.1
+ * [new tag]         v1.2 -> v1.2
+ * [new tag]         v1.4 -> v1.4
+ * [new tag]         v1.8 -> v1.8
+ * [new tag]         v2.0.3 -> v2.0.3
+ * [new tag]         v2.2 -> v2.2
+ * [new tag]         v2.2.1 -> v2.2.1
+preparing to sync LDP_DH datahub_stars...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DH/datahub_stars.git
+ * [new tag]         2.2 -> 2.2
+ * [new tag]         master_2015-10-21-b -> master_2015-10-21-b
+ * [new tag]         master_2015-11-20 -> master_2015-11-20
+ * [new tag]         master_2015-11-21-a -> master_2015-11-21-a
+ * [new tag]         master_2015-11-21-c -> master_2015-11-21-c
+ * [new tag]         master_2015-11-24 -> master_2015-11-24
+ * [new tag]         master_2015-11-30 -> master_2015-11-30
+ * [new tag]         master_2015-12-01-a -> master_2015-12-01-a
+ * [new tag]         master_2015-12-01-b -> master_2015-12-01-b
+ * [new tag]         master_2015-12-01-c -> master_2015-12-01-c
+ * [new tag]         master_2015-12-03 -> master_2015-12-03
+ * [new tag]         master_2015-12-04 -> master_2015-12-04
+ * [new tag]         releasev0.7 -> releasev0.7
+ * [new tag]         v0.8 -> v0.8
+ * [new tag]         v0.9 -> v0.9
+ * [new tag]         v1.0 -> v1.0
+ * [new tag]         v1.1 -> v1.1
+ * [new tag]         v1.2 -> v1.2
+ * [new tag]         v1.3 -> v1.3
+ * [new tag]         v1.4 -> v1.4
+ * [new tag]         v1.5 -> v1.5
+preparing to sync LDP_DH datahub_subscriptions...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DH/datahub_subscriptions.git
+ * [new tag]         2.2 -> 2.2
+ * [new tag]         20151112 -> 20151112
+ * [new tag]         20151112hank -> 20151112hank
+ * [new tag]         master-2015-11-11-b -> master-2015-11-11-b
+ * [new tag]         master-2015-11-11-c -> master-2015-11-11-c
+ * [new tag]         master-2015-11-11-d -> master-2015-11-11-d
+ * [new tag]         master-2015-11-12-a -> master-2015-11-12-a
+ * [new tag]         master-2015-11-12-e -> master-2015-11-12-e
+ * [new tag]         master-20151112 -> master-20151112
+ * [new tag]         master_2005-11-13-b -> master_2005-11-13-b
+ * [new tag]         master_2015-11-10 -> master_2015-11-10
+ * [new tag]         master_2015-11-11-a -> master_2015-11-11-a
+ * [new tag]         master_2015-11-12-b -> master_2015-11-12-b
+ * [new tag]         master_2015-11-12-d -> master_2015-11-12-d
+ * [new tag]         master_2015-11-13-a -> master_2015-11-13-a
+ * [new tag]         master_2015-11-14-a -> master_2015-11-14-a
+ * [new tag]         master_2015-11-14-b -> master_2015-11-14-b
+ * [new tag]         master_2015-11-14-c -> master_2015-11-14-c
+ * [new tag]         master_2015-11-14-d -> master_2015-11-14-d
+ * [new tag]         master_2015-11-18 -> master_2015-11-18
+ * [new tag]         master_2015-11-19 -> master_2015-11-19
+ * [new tag]         master_2015-11-20 -> master_2015-11-20
+ * [new tag]         master_2015-11-21 -> master_2015-11-21
+ * [new tag]         master_2015-11-24 -> master_2015-11-24
+ * [new tag]         master_2015-11-30 -> master_2015-11-30
+ * [new tag]         master_2015-12-01-a -> master_2015-12-01-a
+ * [new tag]         master_2015-12-03-a -> master_2015-12-03-a
+ * [new tag]         release-2015-11-16-a -> release-2015-11-16-a
+ * [new tag]         release-2015-11-16-b -> release-2015-11-16-b
+ * [new tag]         release_2015-11-16-c -> release_2015-11-16-c
+ * [new tag]         release_2015_11-17-d -> release_2015_11-17-d
+ * [new tag]         releasev0.7 -> releasev0.7
+ * [new tag]         v0.4 -> v0.4
+ * [new tag]         v0.8 -> v0.8
+ * [new tag]         v0.81 -> v0.81
+ * [new tag]         v0.9 -> v0.9
+ * [new tag]         v0.91 -> v0.91
+ * [new tag]         v1.0 -> v1.0
+ * [new tag]         v1.03 -> v1.03
+ * [new tag]         v1.1 -> v1.1
+ * [new tag]         v1.2 -> v1.2
+ * [new tag]         v1.3 -> v1.3
+ * [new tag]         v1.4 -> v1.4
+ * [new tag]         v1.5 -> v1.5
+ * [new tag]         v1.9 -> v1.9
+ * [new tag]         v2.0 -> v2.0
+ * [new tag]         v2.1.3 -> v2.1.3
+ * [new tag]         v2.1.4 -> v2.1.4
+ * [new tag]         v2.1.5.1 -> v2.1.5.1
+preparing to sync LDP_DH datahub_synchro...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DH/datahub_synchro.git
+ * [new tag]         0.9 -> 0.9
+ * [new tag]         1.0 -> 1.0
+ * [new tag]         1.1 -> 1.1
+ * [new tag]         1.2 -> 1.2
+ * [new tag]         1.2.1 -> 1.2.1
+ * [new tag]         1.3 -> 1.3
+ * [new tag]         1.4 -> 1.4
+ * [new tag]         1.5 -> 1.5
+ * [new tag]         v0.8 -> v0.8
+ * [new tag]         v1.6 -> v1.6
+preparing to sync LDP_DH datahub_user...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DH/datahub_user.git
+ * [new tag]         0.9 -> 0.9
+ * [new tag]         1.0 -> 1.0
+ * [new tag]         1.1 -> 1.1
+ * [new tag]         1.2 -> 1.2
+ * [new tag]         1.2.1 -> 1.2.1
+ * [new tag]         1.3 -> 1.3
+ * [new tag]         1.4 -> 1.4
+ * [new tag]         1.5 -> 1.5
+ * [new tag]         1.7 -> 1.7
+ * [new tag]         1.7.1 -> 1.7.1
+ * [new tag]         1.7.2 -> 1.7.2
+ * [new tag]         2.08 -> 2.08
+ * [new tag]         2.1.5.4 -> 2.1.5.4
+ * [new tag]         v0.7 -> v0.7
+ * [new tag]         v0.8 -> v0.8
+ * [new tag]         v1.8.1 -> v1.8.1
+ * [new tag]         v1.9.3 -> v1.9.3
+ * [new tag]         v2.02 -> v2.02
+ * [new tag]         v2.03 -> v2.03
+ * [new tag]         v2.05 -> v2.05
+ * [new tag]         v2.06 -> v2.06
+ * [new tag]         v2.07 -> v2.07
+ * [new tag]         v2.2 -> v2.2
+preparing to sync LDP_DH datahub_web...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DH/datahub_web.git
+ * [new tag]         1.0.3 -> 1.0.3
+ * [new tag]         1.1.1 -> 1.1.1
+ * [new tag]         v.0.9.1 -> v.0.9.1
+ * [new tag]         v0.7 -> v0.7
+ * [new tag]         v0.8 -> v0.8
+ * [new tag]         v0.8.1 -> v0.8.1
+ * [new tag]         v0.9 -> v0.9
+ * [new tag]         v0.9.2 -> v0.9.2
+ * [new tag]         v0.9.3 -> v0.9.3
+ * [new tag]         v1.0 -> v1.0
+ * [new tag]         v1.0.1 -> v1.0.1
+ * [new tag]         v1.0.4 -> v1.0.4
+ * [new tag]         v1.1 -> v1.1
+ * [new tag]         v1.2 -> v1.2
+ * [new tag]         v1.3 -> v1.3
+ * [new tag]         v1.3.1 -> v1.3.1
+ * [new tag]         v1.4 -> v1.4
+ * [new tag]         v1.5 -> v1.5
+preparing to sync LDP_DH datahub_web_admin...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DH/datahub_web_admin.git
+ * [new tag]         0.2.4 -> 0.2.4
+ * [new tag]         0.2.6 -> 0.2.6
+ * [new tag]         201608018.01 -> 201608018.01
+ * [new tag]         20160825.01 -> 20160825.01
+ * [new tag]         v0.2.1 -> v0.2.1
+preparing to sync LDP_DH datahub_web_new...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DH/datahub_web_new.git
+ * [new tag]         1.7 -> 1.7
+ * [new tag]         1.8 -> 1.8
+ * [new tag]         1.8.1 -> 1.8.1
+ * [new tag]         1.9 -> 1.9
+ * [new tag]         2.0 -> 2.0
+ * [new tag]         2.0.1 -> 2.0.1
+ * [new tag]         2.0.3 -> 2.0.3
+ * [new tag]         2.0.4 -> 2.0.4
+ * [new tag]         2.1 -> 2.1
+ * [new tag]         2.1.1 -> 2.1.1
+ * [new tag]         2.1.2 -> 2.1.2
+ * [new tag]         2.1.3 -> 2.1.3
+ * [new tag]         2.1.4 -> 2.1.4
+ * [new tag]         2.1.5 -> 2.1.5
+ * [new tag]         2.1.5.1 -> 2.1.5.1
+ * [new tag]         2.1.5.2 -> 2.1.5.2
+ * [new tag]         2.1.5.3 -> 2.1.5.3
+ * [new tag]         2.1.5.4 -> 2.1.5.4
+ * [new tag]         2.1.5.6 -> 2.1.5.6
+ * [new tag]         2.1.5.7 -> 2.1.5.7
+ * [new tag]         2.1.5.8 -> 2.1.5.8
+ * [new tag]         2.2 -> 2.2
+ * [new tag]         hotfix/2.1.5.9 -> hotfix/2.1.5.9
+ * [new tag]         v2.2.1.1 -> v2.2.1.1
+preparing to sync LDP_DH datahub_wordpress...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH LdpApiCreditServer...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH LdpApiGateWay...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH LdpApiLocationServer...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH LdpApiRtbServer...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH WEBCLI-DAEMON...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH gz_docs...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DH webBroadcast...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF apache-nifi-ocrhestration...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF datahub_servicebroker...
+Fetching origin
+No refs in common and none specified; doing nothing.
+Perhaps you should specify a branch such as 'master'.
+Everything up-to-date
+preparing to sync LDP_DF cassandra-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF custom-docker-builder...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF datafactory...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DF/datafactory.git
+ * [new tag]         20140924 -> 20140924
+ * [new tag]         20140925 -> 20140925
+ * [new tag]         20141003 -> 20141003
+ * [new tag]         20141021-pre -> 20141021-pre
+ * [new tag]         ldp0.2 -> ldp0.2
+ * [new tag]         ldp0.2.0 -> ldp0.2.0
+ * [new tag]         openshift-origin-v1.1.4 -> openshift-origin-v1.1.4
+ * [new tag]         origin-1.1.1 -> origin-1.1.1
+ * [new tag]         v0.0.1 -> v0.0.1
+ * [new tag]         v0.1 -> v0.1
+ * [new tag]         v0.2 -> v0.2
+ * [new tag]         v0.2.1 -> v0.2.1
+ * [new tag]         v0.2.2 -> v0.2.2
+ * [new tag]         v0.3 -> v0.3
+ * [new tag]         v0.3.1 -> v0.3.1
+ * [new tag]         v0.3.2 -> v0.3.2
+ * [new tag]         v0.3.3 -> v0.3.3
+ * [new tag]         v0.3.4 -> v0.3.4
+ * [new tag]         v0.4 -> v0.4
+ * [new tag]         v0.4.1 -> v0.4.1
+ * [new tag]         v0.4.2 -> v0.4.2
+ * [new tag]         v0.4.3 -> v0.4.3
+ * [new tag]         v0.4.4 -> v0.4.4
+ * [new tag]         v0.5 -> v0.5
+ * [new tag]         v0.5.1 -> v0.5.1
+ * [new tag]         v0.5.2 -> v0.5.2
+ * [new tag]         v0.5.3 -> v0.5.3
+ * [new tag]         v0.5.4 -> v0.5.4
+ * [new tag]         v0.6 -> v0.6
+ * [new tag]         v0.6.1 -> v0.6.1
+ * [new tag]         v0.6.2 -> v0.6.2
+ * [new tag]         v1.0.0 -> v1.0.0
+ * [new tag]         v1.0.1 -> v1.0.1
+ * [new tag]         v1.0.2 -> v1.0.2
+ * [new tag]         v1.0.3 -> v1.0.3
+ * [new tag]         v1.0.4 -> v1.0.4
+ * [new tag]         v1.0.5 -> v1.0.5
+ * [new tag]         v1.0.6 -> v1.0.6
+ * [new tag]         v1.0.7 -> v1.0.7
+ * [new tag]         v1.0.8 -> v1.0.8
+ * [new tag]         v1.1 -> v1.1
+ * [new tag]         v1.1.1 -> v1.1.1
+ * [new tag]         v1.1.1.0 -> v1.1.1.0
+ * [new tag]         v1.1.1.1 -> v1.1.1.1
+ * [new tag]         v1.1.1.10 -> v1.1.1.10
+ * [new tag]         v1.1.1.11 -> v1.1.1.11
+ * [new tag]         v1.1.1.12 -> v1.1.1.12
+ * [new tag]         v1.1.1.13 -> v1.1.1.13
+ * [new tag]         v1.1.1.14 -> v1.1.1.14
+ * [new tag]         v1.1.1.15 -> v1.1.1.15
+ * [new tag]         v1.1.1.2 -> v1.1.1.2
+ * [new tag]         v1.1.1.3 -> v1.1.1.3
+ * [new tag]         v1.1.1.4 -> v1.1.1.4
+ * [new tag]         v1.1.1.5 -> v1.1.1.5
+ * [new tag]         v1.1.1.6 -> v1.1.1.6
+ * [new tag]         v1.1.1.7 -> v1.1.1.7
+ * [new tag]         v1.1.1.8 -> v1.1.1.8
+ * [new tag]         v1.1.1.9 -> v1.1.1.9
+ * [new tag]         v1.1.2 -> v1.1.2
+ * [new tag]         v1.1.2-ldp0.1 -> v1.1.2-ldp0.1
+ * [new tag]         v1.1.3 -> v1.1.3
+ * [new tag]         v1.1.4 -> v1.1.4
+ * [new tag]         v1.1.4-ldp0.2 -> v1.1.4-ldp0.2
+ * [new tag]         v1.1.5 -> v1.1.5
+ * [new tag]         v1.1.6 -> v1.1.6
+ * [new tag]         v1.1.6-ldp0.3 -> v1.1.6-ldp0.3
+ * [new tag]         v1.1.6-ldp0.3.1 -> v1.1.6-ldp0.3.1
+ * [new tag]         v1.1.6-ldp0.3.2 -> v1.1.6-ldp0.3.2
+ * [new tag]         v1.1.6-ldp0.3.3 -> v1.1.6-ldp0.3.3
+ * [new tag]         v1.1.6-ldp0.3.4 -> v1.1.6-ldp0.3.4
+ * [new tag]         v1.1.6-ldp0.3.5 -> v1.1.6-ldp0.3.5
+ * [new tag]         v1.1.6-ldp0.3.6 -> v1.1.6-ldp0.3.6
+ * [new tag]         v1.1.6-ldp0.3.7 -> v1.1.6-ldp0.3.7
+ * [new tag]         v1.1.6-ldp0.3.7.1 -> v1.1.6-ldp0.3.7.1
+ * [new tag]         v1.2.0 -> v1.2.0
+ * [new tag]         v1.2.0-rc1 -> v1.2.0-rc1
+ * [new tag]         v1.2.0-rc2 -> v1.2.0-rc2
+ * [new tag]         v1.2.1 -> v1.2.1
+ * [new tag]         v1.2.1-ldp0.4.0-alpha -> v1.2.1-ldp0.4.0-alpha
+ * [new tag]         v1.3.0-alpha.0 -> v1.3.0-alpha.0
+ * [new tag]         v1.3.0-alpha.1 -> v1.3.0-alpha.1
+ * [new tag]         v1.3.0-alpha.2 -> v1.3.0-alpha.2
+ * [new tag]         v1.3.0-alpha.3 -> v1.3.0-alpha.3
+preparing to sync LDP_DF datafactory-rds-broker...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF datafactory-servicebroker-example...
+Fetching origin
+remote: Not Found
+fatal: repository 'http://10.1.236.101:9700/LDP_DF/datafactory-servicebroker-example.git/' not found
+preparing to sync LDP_DF datafactory-servicebroker-mysql...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DF/datafactory-servicebroker-mysql.git
+ * [new tag]         20151223 -> 20151223
+preparing to sync LDP_DF datafactory-stepbystep...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF datafoundry-gitter...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF datafoundry-troubleshooting...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_appmarket...
+Fetching origin
+From https://github.com/asiainfoLDP/datafoundry_appmarket
+ * branch            HEAD       -> FETCH_HEAD
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_backlog...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_oauth2...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DF/datafoundry_oauth2.git
+ * [new tag]         v0.2 -> v0.2
+ * [new tag]         v0.2.1 -> v0.2.1
+preparing to sync LDP_DF datafoundry_plan...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_proxy...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DF/datafoundry_proxy.git
+ * [new tag]         0.6 -> 0.6
+ * [new tag]         0.7 -> 0.7
+ * [new tag]         0.8 -> 0.8
+ * [new tag]         0.8.5 -> 0.8.5
+ * [new tag]         0.8.5.1 -> 0.8.5.1
+ * [new tag]         0.8.5.2 -> 0.8.5.2
+preparing to sync LDP_DF datafoundry_servicebroker_go...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_servicebroker_hadoop...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_servicebroker_marathon...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_servicebroker_mysql...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_servicebroker_ocdp...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_servicebroker_openshift...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_servicebroker_redis...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_web...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DF/datafoundry_web.git
+ * [new tag]         0.3 -> 0.3
+ * [new tag]         0.3.1 -> 0.3.1
+ * [new tag]         0.3.2 -> 0.3.2
+ * [new tag]         0.4 -> 0.4
+ * [new tag]         0.5 -> 0.5
+ * [new tag]         v0.3 -> v0.3
+ * [new tag]         v0.5 -> v0.5
+ * [new tag]         v0.5.1 -> v0.5.1
+ * [new tag]         v0.5.2 -> v0.5.2
+ * [new tag]         v0.5.2.1 -> v0.5.2.1
+ * [new tag]         v0.5.3 -> v0.5.3
+ * [new tag]         v0.5.4 -> v0.5.4
+ * [new tag]         v0.6 -> v0.6
+ * [new tag]         v0.6.1 -> v0.6.1
+ * [new tag]         v0.6.2 -> v0.6.2
+ * [new tag]         v0.6.3 -> v0.6.3
+ * [new tag]         v0.7 -> v0.7
+ * [new tag]         v0.7.1 -> v0.7.1
+ * [new tag]         v0.8 -> v0.8
+ * [new tag]         v0.8.1 -> v0.8.1
+ * [new tag]         v0.8.2 -> v0.8.2
+ * [new tag]         v0.8.3 -> v0.8.3
+ * [new tag]         v0.8.4 -> v0.8.4
+ * [new tag]         v0.8.4.1 -> v0.8.4.1
+ * [new tag]         v0.8.4.2 -> v0.8.4.2
+ * [new tag]         v0.8.4.3 -> v0.8.4.3
+ * [new tag]         v0.8.5 -> v0.8.5
+ * [new tag]         v0.8.5.1 -> v0.8.5.1
+ * [new tag]         v0.8.6 -> v0.8.6
+preparing to sync LDP_DF data_resource_planning...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF etcd-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF gitbook-server...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF harbor...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DF/harbor.git
+ * [new tag]         0.1.0 -> 0.1.0
+ * [new tag]         0.1.1 -> 0.1.1
+preparing to sync LDP_DF helloworld...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF kafka-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF kettle-service-ocrhestration...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF kubernetes...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DF/kubernetes.git
+ * [new tag]         kubernetes-v1.2.0 -> kubernetes-v1.2.0
+ * [new tag]         v0.10.0 -> v0.10.0
+ * [new tag]         v0.10.1 -> v0.10.1
+ * [new tag]         v0.11.0 -> v0.11.0
+ * [new tag]         v0.12.0 -> v0.12.0
+ * [new tag]         v0.12.1 -> v0.12.1
+ * [new tag]         v0.12.2 -> v0.12.2
+ * [new tag]         v0.13.0 -> v0.13.0
+ * [new tag]         v0.13.1 -> v0.13.1
+ * [new tag]         v0.13.1-dev -> v0.13.1-dev
+ * [new tag]         v0.13.2 -> v0.13.2
+ * [new tag]         v0.14.0 -> v0.14.0
+ * [new tag]         v0.14.1 -> v0.14.1
+ * [new tag]         v0.14.2 -> v0.14.2
+ * [new tag]         v0.15.0 -> v0.15.0
+ * [new tag]         v0.16.0 -> v0.16.0
+ * [new tag]         v0.16.1 -> v0.16.1
+ * [new tag]         v0.16.2 -> v0.16.2
+ * [new tag]         v0.17.0 -> v0.17.0
+ * [new tag]         v0.17.1 -> v0.17.1
+ * [new tag]         v0.18.0 -> v0.18.0
+ * [new tag]         v0.18.1 -> v0.18.1
+ * [new tag]         v0.18.2 -> v0.18.2
+ * [new tag]         v0.19.0 -> v0.19.0
+ * [new tag]         v0.19.1 -> v0.19.1
+ * [new tag]         v0.19.2 -> v0.19.2
+ * [new tag]         v0.19.3 -> v0.19.3
+ * [new tag]         v0.2 -> v0.2
+ * [new tag]         v0.20.0 -> v0.20.0
+ * [new tag]         v0.20.1 -> v0.20.1
+ * [new tag]         v0.20.2 -> v0.20.2
+ * [new tag]         v0.21.0 -> v0.21.0
+ * [new tag]         v0.21.1 -> v0.21.1
+ * [new tag]         v0.21.2 -> v0.21.2
+ * [new tag]         v0.21.3 -> v0.21.3
+ * [new tag]         v0.21.4 -> v0.21.4
+ * [new tag]         v0.3 -> v0.3
+ * [new tag]         v0.4 -> v0.4
+ * [new tag]         v0.4.1 -> v0.4.1
+ * [new tag]         v0.4.2 -> v0.4.2
+ * [new tag]         v0.4.3 -> v0.4.3
+ * [new tag]         v0.4.4 -> v0.4.4
+ * [new tag]         v0.5 -> v0.5
+ * [new tag]         v0.5.1 -> v0.5.1
+ * [new tag]         v0.5.2 -> v0.5.2
+ * [new tag]         v0.5.3 -> v0.5.3
+ * [new tag]         v0.5.4 -> v0.5.4
+ * [new tag]         v0.5.5 -> v0.5.5
+ * [new tag]         v0.5.6 -> v0.5.6
+ * [new tag]         v0.6.0 -> v0.6.0
+ * [new tag]         v0.6.1 -> v0.6.1
+ * [new tag]         v0.6.2 -> v0.6.2
+ * [new tag]         v0.7.0 -> v0.7.0
+ * [new tag]         v0.7.1 -> v0.7.1
+ * [new tag]         v0.7.2 -> v0.7.2
+ * [new tag]         v0.7.3 -> v0.7.3
+ * [new tag]         v0.7.4 -> v0.7.4
+ * [new tag]         v0.8.0 -> v0.8.0
+ * [new tag]         v0.8.1 -> v0.8.1
+ * [new tag]         v0.8.2 -> v0.8.2
+ * [new tag]         v0.8.4 -> v0.8.4
+ * [new tag]         v0.9.0 -> v0.9.0
+ * [new tag]         v0.9.1 -> v0.9.1
+ * [new tag]         v0.9.2 -> v0.9.2
+ * [new tag]         v0.9.3 -> v0.9.3
+ * [new tag]         v1.0.0 -> v1.0.0
+ * [new tag]         v1.0.1 -> v1.0.1
+ * [new tag]         v1.0.2 -> v1.0.2
+ * [new tag]         v1.0.3 -> v1.0.3
+ * [new tag]         v1.0.4 -> v1.0.4
+ * [new tag]         v1.0.5 -> v1.0.5
+ * [new tag]         v1.0.6 -> v1.0.6
+ * [new tag]         v1.0.7 -> v1.0.7
+ * [new tag]         v1.0.8-beta -> v1.0.8-beta
+ * [new tag]         v1.1.0 -> v1.1.0
+ * [new tag]         v1.1.0-alpha.0 -> v1.1.0-alpha.0
+ * [new tag]         v1.1.0-alpha.1 -> v1.1.0-alpha.1
+ * [new tag]         v1.1.0-beta -> v1.1.0-beta
+ * [new tag]         v1.1.1 -> v1.1.1
+ * [new tag]         v1.1.1-beta -> v1.1.1-beta
+ * [new tag]         v1.1.1-beta.0 -> v1.1.1-beta.0
+ * [new tag]         v1.1.1-beta.1 -> v1.1.1-beta.1
+ * [new tag]         v1.1.2 -> v1.1.2
+ * [new tag]         v1.1.2-beta.0 -> v1.1.2-beta.0
+ * [new tag]         v1.1.3 -> v1.1.3
+ * [new tag]         v1.1.3-beta.0 -> v1.1.3-beta.0
+ * [new tag]         v1.1.4 -> v1.1.4
+ * [new tag]         v1.1.4-beta.0 -> v1.1.4-beta.0
+ * [new tag]         v1.1.5 -> v1.1.5
+ * [new tag]         v1.1.5-beta.0 -> v1.1.5-beta.0
+ * [new tag]         v1.1.6 -> v1.1.6
+ * [new tag]         v1.1.6-beta.0 -> v1.1.6-beta.0
+ * [new tag]         v1.1.7 -> v1.1.7
+ * [new tag]         v1.1.7-beta.0 -> v1.1.7-beta.0
+ * [new tag]         v1.1.8 -> v1.1.8
+ * [new tag]         v1.1.8-beta.0 -> v1.1.8-beta.0
+ * [new tag]         v1.1.9-beta.0 -> v1.1.9-beta.0
+ * [new tag]         v1.2.0 -> v1.2.0
+ * [new tag]         v1.2.0-alpha.0 -> v1.2.0-alpha.0
+ * [new tag]         v1.2.0-alpha.1 -> v1.2.0-alpha.1
+ * [new tag]         v1.2.0-alpha.2 -> v1.2.0-alpha.2
+ * [new tag]         v1.2.0-alpha.3 -> v1.2.0-alpha.3
+ * [new tag]         v1.2.0-alpha.4 -> v1.2.0-alpha.4
+ * [new tag]         v1.2.0-alpha.5 -> v1.2.0-alpha.5
+ * [new tag]         v1.2.0-alpha.6 -> v1.2.0-alpha.6
+ * [new tag]         v1.2.0-alpha.7 -> v1.2.0-alpha.7
+ * [new tag]         v1.2.0-alpha.8 -> v1.2.0-alpha.8
+ * [new tag]         v1.2.0-beta.0 -> v1.2.0-beta.0
+ * [new tag]         v1.2.0-beta.1 -> v1.2.0-beta.1
+ * [new tag]         v1.2.1-beta.0 -> v1.2.1-beta.0
+ * [new tag]         v1.3.0-alpha.0 -> v1.3.0-alpha.0
+preparing to sync LDP_DF meta-azure-service-broker...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF openshift-orchestration...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF phpRedisAdmin-openshift-orchestration...
+Fetching origin
+To http://10.1.236.101:9700/LDP_DF/phpRedisAdmin-openshift-orchestration.git
+ * [new tag]         1.4.2 -> 1.4.2
+ * [new tag]         v1.1.0 -> v1.1.0
+ * [new tag]         v1.2.0 -> v1.2.0
+ * [new tag]         v1.2.1 -> v1.2.1
+ * [new tag]         v1.3.0 -> v1.3.0
+ * [new tag]         v1.4.0 -> v1.4.0
+ * [new tag]         v1.4.1 -> v1.4.1
+ * [new tag]         v1.5.0 -> v1.5.0
+ * [new tag]         v1.6.0 -> v1.6.0
+preparing to sync LDP_DF rabbitmq-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF redis-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF spark-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF storm-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF tensorflow-playground...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF wordpress...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF zookeeper-exhibitor-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+preparing to sync LDP_DF zookeeper-openshift-orchestration...
+Fetching origin
+Everything up-to-date
