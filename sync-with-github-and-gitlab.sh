@@ -18,8 +18,8 @@ sync_repo() {
         cd ${2}.git
         git fetch --all --prune
     fi
-    git push --prune --tags http://10.1.236.101:9700/${1}/${2}.git
-    git push --prune --all http://10.1.236.101:9700/${1}/${2}.git
+    git push --prune --tags -f http://10.1.236.101:9700/${1}/${2}.git
+    git push --prune --all -f http://10.1.236.101:9700/${1}/${2}.git
 }
 
 sync_repo_dh() {
