@@ -192,4 +192,4 @@ sync_repo_df zookeeper-exhibitor-openshift-orchestration
 sync_repo_df zookeeper-openshift-orchestration
 sync_repo_df datafoundry_serviceusage
 sync_repo_df datafoundry_payment
-
+sync_repo_df datafoundry_recharge
