@@ -1,0 +1,398 @@
+preparing to sync LDP_DH api-gateway-datahub...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub-mysql-for-api...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub-mysqlclinet...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_alarm...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_api_gateway...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_api_server...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_api_specification...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_backlog...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_bill...
+Fetching origin
+From https://github.com/asiainfoLDP/datahub_bill
+   e2f6005..e46f34f  develop    -> develop
+Everything up-to-date
+To http://10.1.236.101:9700/LDP_DH/datahub_bill.git
+   e2f6005..e46f34f  develop -> develop
+preparing to sync LDP_DH datahub_comments...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_commons...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_custom...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_docs...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_documentation...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_documents...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_filebackup...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_find_similiars...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_heartbeat...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_kafka...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_messages...
+Fetching origin
+From https://github.com/asiainfoLDP/datahub_messages
+   fbecc6a..a17eeb8  develop    -> develop
+Everything up-to-date
+To http://10.1.236.101:9700/LDP_DH/datahub_messages.git
+   fbecc6a..a17eeb8  develop -> develop
+preparing to sync LDP_DH datahub_product_yaml...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_repository...
+Fetching origin
+From https://github.com/asiainfoLDP/datahub_repository
+   c0cc08a..96014a7  develop    -> develop
+Everything up-to-date
+To http://10.1.236.101:9700/LDP_DH/datahub_repository.git
+   c0cc08a..96014a7  develop -> develop
+preparing to sync LDP_DH datahub_service_discovery...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_stars...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_subscriptions...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_synchro...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_user...
+Fetching origin
+From https://github.com/asiainfoLDP/datahub_user
+   2650181..a74f74f  develop    -> develop
+Everything up-to-date
+To http://10.1.236.101:9700/LDP_DH/datahub_user.git
+   2650181..a74f74f  develop -> develop
+preparing to sync LDP_DH datahub_web...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_web_admin...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_web_new...
+Fetching origin
+From https://github.com/asiainfoLDP/datahub_web_new
+   a81cc6a..e027b2b  develop    -> develop
+ * [new branch]      hotfix/v2.3.1.1 -> hotfix/v2.3.1.1
+   c336353..2b7ac5c  master     -> master
+ * [new tag]         v2.3.1.1   -> v2.3.1.1
+To http://10.1.236.101:9700/LDP_DH/datahub_web_new.git
+ * [new tag]         v2.3.1.1 -> v2.3.1.1
+To http://10.1.236.101:9700/LDP_DH/datahub_web_new.git
+   a81cc6a..e027b2b  develop -> develop
+   c336353..2b7ac5c  master -> master
+ * [new branch]      hotfix/v2.3.1.1 -> hotfix/v2.3.1.1
+preparing to sync LDP_DH datahub_wordpress...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH LdpApiCreditServer...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH LdpApiGateWay...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH LdpApiLocationServer...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH LdpApiRtbServer...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH WEBCLI-DAEMON...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH gz_docs...
+Fetching origin
+From https://github.com/asiainfoLDP/gz_docs
+   fd0670f..65afc2e  refs/pull/2/head -> refs/pull/2/head
+ + e434fb4...8bd9025 refs/pull/2/merge -> refs/pull/2/merge  (forced update)
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH webBroadcast...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DH datahub_web_advanced...
+Fetching origin
+From https://github.com/asiainfoLDP/datahub_web_advanced
+   043f6a4..0362431  develop    -> develop
+Everything up-to-date
+To http://10.1.236.101:9700/LDP_DH/datahub_web_advanced.git
+   043f6a4..0362431  develop -> develop
+preparing to sync LDP_DF apache-nifi-ocrhestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datahub_servicebroker...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF cassandra-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF custom-docker-builder...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafactory...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafactory-rds-broker...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafactory-servicebroker-mysql...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafactory-stepbystep...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry-gitter...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry-troubleshooting...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_appmarket...
+Fetching origin
+From https://github.com/asiainfoLDP/datafoundry_appmarket
+ * branch            HEAD       -> FETCH_HEAD
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_backlog...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_oauth2...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_plan...
+Fetching origin
+From https://github.com/asiainfoLDP/datafoundry_plan
+   61649d0..8fb94ea  develop    -> develop
+Everything up-to-date
+To http://10.1.236.101:9700/LDP_DF/datafoundry_plan.git
+   61649d0..8fb94ea  develop -> develop
+preparing to sync LDP_DF datafoundry_proxy...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_servicebroker_go...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_servicebroker_hadoop...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_servicebroker_marathon...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_servicebroker_mysql...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_servicebroker_ocdp...
+Fetching origin
+From https://github.com/asiainfoLDP/datafoundry_servicebroker_ocdp
+   761a605..a472a78  develop    -> develop
+Everything up-to-date
+To http://10.1.236.101:9700/LDP_DF/datafoundry_servicebroker_ocdp.git
+   761a605..a472a78  develop -> develop
+preparing to sync LDP_DF datafoundry_servicebroker_openshift...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_servicebroker_redis...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_web...
+Fetching origin
+From https://github.com/asiainfoLDP/datafoundry_web
+   8d39c29..989156d  feature/jfeature -> feature/jfeature
+   9482ffa..80972c0  feature/jxyfeature -> feature/jxyfeature
+   c33cc24..04ed84b  master     -> master
+ * [new ref]         refs/pull/19/head -> refs/pull/19/head
+ * [new ref]         refs/pull/19/merge -> refs/pull/19/merge
+ * [new ref]         refs/pull/20/head -> refs/pull/20/head
+ * [new ref]         refs/pull/20/merge -> refs/pull/20/merge
+ * [new ref]         refs/pull/21/head -> refs/pull/21/head
+Everything up-to-date
+To http://10.1.236.101:9700/LDP_DF/datafoundry_web.git
+   8d39c29..989156d  feature/jfeature -> feature/jfeature
+   9482ffa..80972c0  feature/jxyfeature -> feature/jxyfeature
+   c33cc24..04ed84b  master -> master
+preparing to sync LDP_DF data_resource_planning...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF etcd-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF gitbook-server...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF harbor...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF helloworld...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF kafka-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF kettle-service-ocrhestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF kubernetes...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF meta-azure-service-broker...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF phpRedisAdmin-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF rabbitmq-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF redis-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF spark-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF storm-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF tensorflow-playground...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF wordpress...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF zookeeper-exhibitor-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF zookeeper-openshift-orchestration...
+Fetching origin
+Everything up-to-date
+Everything up-to-date
+preparing to sync LDP_DF datafoundry_serviceusage...
+Fetching origin
+From https://github.com/asiainfoLDP/datafoundry_serviceusage
+   19c410b..0f40697  develop    -> develop
+Everything up-to-date
+To http://10.1.236.101:9700/LDP_DF/datafoundry_serviceusage.git
+   19c410b..0f40697  develop -> develop
+preparing to sync LDP_DF datafoundry_payment...
+Fetching origin
+From https://github.com/asiainfoLDP/datafoundry_payment
+   15a2e7a..73b442a  develop    -> develop
+Everything up-to-date
+To http://10.1.236.101:9700/LDP_DF/datafoundry_payment.git
+   15a2e7a..73b442a  develop -> develop
+preparing to sync LDP_DF datafoundry_recharge...
+Fetching origin
+From https://github.com/asiainfoLDP/datafoundry_recharge
+ * [new branch]      develop    -> develop
+   b8cf4f6..03d0abd  master     -> master
+Everything up-to-date
+To http://10.1.236.101:9700/LDP_DF/datafoundry_recharge.git
+   b8cf4f6..03d0abd  master -> master
+ * [new branch]      develop -> develop
