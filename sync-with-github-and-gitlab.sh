@@ -197,4 +197,5 @@ sync_repo_df datafoundry_aipay
 sync_repo_df datafoundry_ocdp_hive_demo
 sync_repo_df datafoundry_data_integration
 sync_repo_df datafoundry_data_instance
+sync_repo_df datafoundry_coupon
 
