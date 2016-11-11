@@ -107,10 +107,8 @@ sync_repo_df datafactory-servicebroker-mysql
 sync_repo_df datafactory-stepbystep
 sync_repo_df datafoundry-gitter
 sync_repo_df datafoundry-troubleshooting
-sync_repo_df datafoundry_appmarket
 sync_repo_df datafoundry_backlog
 sync_repo_df datafoundry_oauth2
-sync_repo_df datafoundry_plan
 sync_repo_df datafoundry_proxy
 sync_repo_df datafoundry_servicebroker_go
 sync_repo_df datafoundry_servicebroker_hadoop
@@ -198,4 +196,6 @@ sync_repo_df datafoundry_ocdp_hive_demo
 sync_repo_df datafoundry_data_integration
 sync_repo_df datafoundry_data_instance
 sync_repo_df datafoundry_coupon
+sync_repo_df datafoundry_appmarket
+sync_repo_df datafoundry_plan
 
