@@ -203,4 +203,5 @@ sync_repo_df datafoundry_coupon
 sync_repo_df datafoundry_appmarket
 sync_repo_df datafoundry_plan
 sync_repo_df datafoundry_volume
+sync_repo_df datafoundry_volume_management
 
