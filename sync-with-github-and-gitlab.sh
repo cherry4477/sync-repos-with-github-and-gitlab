@@ -72,7 +72,6 @@ sync_repo_dh LdpApiRtbServer
 sync_repo_dh WEBCLI-DAEMON
 sync_repo_dh gz_docs
 sync_repo_dh webBroadcast
-sync_repo_dh datahub_web_advanced
 sync_repo_dh datahub_swagger
 sync_repo_dh front-end-coding-guide
 
